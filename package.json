@@ -1,0 +1,30 @@
+{
+  "name": "mosh-template-engine",
+  "version": "1.0.0",
+  "description": "This it's a simple template engine for node.js and express.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JoHNNyRiver/mosh-template-engine.git"
+  },
+  "keywords": [
+    "template",
+    "engine",
+    "template",
+    "engine",
+    "mosh",
+    "template",
+    "mosh",
+    "mosh",
+    "engine"
+  ],
+  "author": "João Ribeiro",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JoHNNyRiver/mosh-template-engine/issues"
+  },
+  "homepage": "https://github.com/JoHNNyRiver/mosh-template-engine#readme"
+}
